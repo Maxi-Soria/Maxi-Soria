@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- [Inicio](index.html)
+- [Contacto](contacto.html)
+- [Acerca De](acerca.html)
+
+# **Inicio**
